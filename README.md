@@ -26,31 +26,3 @@ vue3 + vite
 
 启动，在server目录下执行 node app.js
 
-# 项目展示
-
-### 首页
-
-![image-20220822112523906](C:\Users\郑雅敏\AppData\Roaming\Typora\typora-user-images\image-20220822112523906.png)
-
-### 分类展示
-
-![image-20220822112831249](C:\Users\郑雅敏\AppData\Roaming\Typora\typora-user-images\image-20220822112831249.png)
-
-### 后台管理
-
-#### 登录
-
-![](C:\Users\郑雅敏\AppData\Roaming\Typora\typora-user-images\image-20220822113001204.png)
-
-#### 文章管理
-
-![image-20220822113101327](C:\Users\郑雅敏\AppData\Roaming\Typora\typora-user-images\image-20220822113101327.png)
-
-#### 添加文章
-
-![](C:\Users\郑雅敏\AppData\Roaming\Typora\typora-user-images\image-20220822113202601.png)
-
-#### 分类管理
-
-![image-20220822113328913](C:\Users\郑雅敏\AppData\Roaming\Typora\typora-user-images\image-20220822113328913.png)
-
